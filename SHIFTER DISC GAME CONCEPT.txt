@@ -1,0 +1,7 @@
+more for like a platformer type of game
+
+shoot a disc up in the area, get the right amount of distance and angle between you
+press space to catapult yourself across the screen
+
+kinda like a cooler version of angry birds and can involve something besides knocking shit down 
+(maybe you have to land on a platform and do something else idk)

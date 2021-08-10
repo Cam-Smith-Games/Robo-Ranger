@@ -1,0 +1,47 @@
+ROBO RANGER: Zarthelon's Throne
+
+i learned how to make the basic game engine from Edward Herberts html5 game development tutorial found at https://www.youtube.com/watch?v=_-anNiDwHS0 
+(I watched like the first 5 episodes and it taught me how to make a square move on a canvas with arrow keys)
+everything else was completely by me and w3schools (occasionally stackoverflow). 
+
+due to the silliness of having different stages on different webpages, avoid pressing back (when restarting you either have to close browser or press M (my cheat code) to reset session storage)
+
+-> intro screen
+
+-> starting field
+field is connected to forest and castle courtyard
+
+-> forest
+forest connected to test room and field
+
+-> test room 
+test room only connected to forest
+has chest with gun in it
+
+-> castle courtyard
+has a guard you have to talk to before entering next room
+
+-> throne room 
+kill boss, win game
+
+I contacted matthew pablo and he allowed me to use the free music from his website at http://www.matthewpablo.com/
+
+
+chest image from http://opengameart.org/content/modified-32x32-treasure-chest by Blarumyrran
+evolutius music from http://opengameart.org/content/evolutius-music by VividReality
+tree images from http://opengameart.org/content/lpc-plant-repack
+explosion image from http://opengameart.org/content/explosion
+ammo image from http://opengameart.org/content/power-up-icons
+got the stone image for my castle and courtyard from http://opengameart.org/content/platformer-2d-stone-brick-tile by Marta Nowaczyk
+got boss image from http://opengameart.org/content/harlequin-epicycle-mod by Redshrike
+knight image from http://opengameart.org/content/cartoon-knight by laetissima
+battery image from http://www.clker.com/clipart-6946.html
+titlescreen background from http://opengameart.org/content/solar-system
+scream sound http://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds
+castle door http://opengameart.org/content/castle-door by Tuomo Unitinen
+420 + 98 extra free rpg icons from http://opengameart.org/content/496-pixel-art-icons-for-medievalfantasy-rpg
+teleport sound from http://opengameart.org/content/8-bit-platformer-sfx
+scifi sounds from http://opengameart.org/content/9-sci-fi-computer-sounds-and-beeps
+teleporter warp sound from http://opengameart.org/content/warp-sound-4
+explosion sound from http://opengameart.org/content/big-explosion
+laser img from http://opengameart.org/content/lasers-and-beams

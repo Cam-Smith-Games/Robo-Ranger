@@ -1,0 +1,60 @@
+#mainCanvas {
+	background-color: black;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	
+}
+
+#ammo {
+	display:inline-block;
+	position: absolute;
+	top: 95%;
+	left: 15%;
+	color: yellow;
+	margin-left: 0;
+	font-family: 'impact';
+	font-style: bold;
+	font-size: 150%;
+}
+
+#health {
+	display:inline-block;
+	position: absolute;
+	top: 95%;
+	left: 35%;
+	color: red;
+	margin-left: 0;
+	font-family: 'impact';
+	font-style: bold;
+	font-size: 150%;
+}
+
+#batteryLife {
+	display:inline-block;
+	position: absolute;
+	top: 95%;
+	left: 55%;
+	color: green;
+	margin-left: 0;
+	font-family: 'impact';
+	font-style: bold;
+	font-size: 150%;
+}
+
+#blinkCharges {
+	display:inline-block;
+	position: absolute;
+	top: 95%;
+	left: 75%;
+	color: purple;
+	margin-left: 0;
+	font-family: 'impact';
+	font-style: bold;
+	font-size: 150%;
+}
+
+body {
+	background-color: black;
+}
